@@ -235,23 +235,18 @@ npm run dev
 
 # 📸 Project Preview
 
-You can add screenshots or demo video here.
+ demo video here.
 
 Example
 
 ```
 /screenshots/home.png
-/screenshots/recipe-detail.png
-/screenshots/ai-generator.png
 ```
 
 ---
 
 # 🔮 Future Improvements
 
-* Recipe video uploads
-* AI nutrition analysis
-* Mobile application
 * Advanced recommendation system
 * Voice based cooking assistant
 
